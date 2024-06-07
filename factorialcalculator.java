@@ -9,7 +9,7 @@ public class factorialcalculator {
         {
             factorial *= i;
         }
-        System.out.printf("bbb factorial number of  %d = %d", number, factorial);
+        System.out.printf("factorial number of  %d = %d", number, factorial);
         Scanner reader = new Scanner(System.in);
 System.out.println( " factorial answer : ");
 int n = reader.nextInt();
